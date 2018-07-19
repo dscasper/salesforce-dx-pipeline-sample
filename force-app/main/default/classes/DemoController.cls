@@ -13,4 +13,5 @@ public with sharing class DemoController {
     public String getAppVersion() {
         return appVersion;
     }
+    /*Test*/
 }
